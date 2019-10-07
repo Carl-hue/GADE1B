@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\CarlLubbe_18013135_GADE1B_Task3\GADE1B_Task3_18013135\GADE1B_Task3_18013135\bin\Debug\GADE1B_Task3_18013135.exe.config
+C:\Users\User\Desktop\CarlLubbe_18013135_GADE1B_Task3\GADE1B_Task3_18013135\GADE1B_Task3_18013135\bin\Debug\GADE1B_Task3_18013135.exe
+C:\Users\User\Desktop\CarlLubbe_18013135_GADE1B_Task3\GADE1B_Task3_18013135\GADE1B_Task3_18013135\bin\Debug\GADE1B_Task3_18013135.pdb
+C:\Users\User\Desktop\CarlLubbe_18013135_GADE1B_Task3\GADE1B_Task3_18013135\GADE1B_Task3_18013135\obj\Debug\GADE1B_Task3_18013135.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CarlLubbe_18013135_GADE1B_Task3\GADE1B_Task3_18013135\GADE1B_Task3_18013135\obj\Debug\GADE1B_Task3_18013135.Form1.resources
+C:\Users\User\Desktop\CarlLubbe_18013135_GADE1B_Task3\GADE1B_Task3_18013135\GADE1B_Task3_18013135\obj\Debug\GADE1B_Task3_18013135.Properties.Resources.resources
+C:\Users\User\Desktop\CarlLubbe_18013135_GADE1B_Task3\GADE1B_Task3_18013135\GADE1B_Task3_18013135\obj\Debug\GADE1B_Task3_18013135.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CarlLubbe_18013135_GADE1B_Task3\GADE1B_Task3_18013135\GADE1B_Task3_18013135\obj\Debug\GADE1B_Task3_18013135.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CarlLubbe_18013135_GADE1B_Task3\GADE1B_Task3_18013135\GADE1B_Task3_18013135\obj\Debug\GADE1B_Task3_18013135.exe
+C:\Users\User\Desktop\CarlLubbe_18013135_GADE1B_Task3\GADE1B_Task3_18013135\GADE1B_Task3_18013135\obj\Debug\GADE1B_Task3_18013135.pdb
